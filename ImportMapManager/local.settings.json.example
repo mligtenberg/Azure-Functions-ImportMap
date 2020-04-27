@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "",
+        "ImportMapTableStorage": "",
+        "ReferencePreviousVersions": "",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    }
+}
